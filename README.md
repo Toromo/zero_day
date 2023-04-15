@@ -1,1 +1,1 @@
-My first readme
+Sub-directory for Vagrant assignment
